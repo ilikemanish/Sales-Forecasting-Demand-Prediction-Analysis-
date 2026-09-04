@@ -175,6 +175,3 @@ Completing this project developed strong competencies in:
 ---
 
 ⭐ If you found this project useful, feel free to star the repository.
-
-├── Insights_and
-└── README.
