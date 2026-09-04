@@ -8,23 +8,23 @@
 
 # 📌 Project Overview
 
-This project is **Project 4 of my Internship – Sales Forecasting & Demand Prediction Analysis**[cite: 1, 5].
+This project is **Project 4 of my Internship – Sales Forecasting & Demand Prediction Analysis**.
 
-The project analyzes **51,290 global retail sales records (2011–2014)** to evaluate sales trends, product demand, seasonal patterns, and category profitability entirely within **Microsoft Excel**[cite: 1, 5]. The analysis converts raw historical business data into actionable forecasting insights to optimize future demand planning and resolve critical operational challenges like demand volatility and inventory misallocation[cite: 1, 5].
+The project analyzes **51,290 global retail sales records (2011–2014)** to evaluate sales trends, product demand, seasonal patterns, and category profitability entirely within **Microsoft Excel**[cite: 1, 5]. The analysis converts raw historical business data into actionable forecasting insights to optimize future demand planning and resolve critical operational challenges like demand volatility and inventory misallocation.
 
 ---
 
 # 🎯 Business Problem
 
-Retail companies often face sudden fluctuations in demand, leading to stockouts during peak seasons or overstocking during off-peak periods[cite: 1, 5]. 
+Retail companies often face sudden fluctuations in demand, leading to stockouts during peak seasons or overstocking during off-peak periods. 
 
 This project aims to answer key business questions such as:
 
-- Which months have the highest sales?[cite: 1, 5]
-- Is there any seasonal pattern in sales?[cite: 1, 5]
-- What is the overall sales trend (increasing or decreasing)?[cite: 1, 5]
-- Which products are expected to have high demand in the future?[cite: 1, 5]
-- How can the company improve demand planning and inventory management?[cite: 1, 5]
+- Which months have the highest sales?
+- Is there any seasonal pattern in sales?
+- What is the overall sales trend (increasing or decreasing)?
+- Which products are expected to have high demand in the future?
+- How can the company improve demand planning and inventory management?
 
 ---
 
@@ -91,10 +91,10 @@ The analysis tracks important business metrics across the 4-year period:
 
 The dashboard focuses on the required expected analysis:
 
-- Monthly and Yearly Sales Trends[cite: 1, 5]
-- Product-wise and Category-wise Sales Performance[cite: 1, 5]
-- Seasonal Demand Patterns (Peaks and Troughs)[cite: 1, 5]
-- Growth or decline in sales over time[cite: 1]
+- Monthly and Yearly Sales Trends
+- Product-wise and Category-wise Sales Performance
+- Seasonal Demand Patterns (Peaks and Troughs)
+- Growth or decline in sales over time
 
 ---
 
@@ -102,11 +102,11 @@ The dashboard focuses on the required expected analysis:
 
 Based on the cleaned dataset and Excel analysis:
 
-- 🏆 **November (₹1,551,319) and December (₹1,580,816)** generate the highest monthly sales revenue, representing the peak Q4 season[cite: 5].
-- 📈 The business shows a **strictly increasing year-over-year sales trend**, growing from ₹2.26M in 2011 to ₹4.30M in 2014[cite: 5].
-- 💻 **Technology** generates the highest product category revenue at **₹4,744,691** and the highest profit at **₹663,778**[cite: 5].
-- 📉 **February (₹543,768)** is the lowest sales month, acting as an annual off-peak trough[cite: 5].
-- 📱 The **Phones** sub-category shows top sales momentum, generating **₹1,706,874** in total revenue[cite: 5].
+- 🏆 **November (₹1,551,319) and December (₹1,580,816)** generate the highest monthly sales revenue, representing the peak Q4 season.
+- 📈 The business shows a **strictly increasing year-over-year sales trend**, growing from ₹2.26M in 2011 to ₹4.30M in 2014.
+- 💻 **Technology** generates the highest product category revenue at **₹4,744,691** and the highest profit at **₹663,778**.
+- 📉 **February (₹543,768)** is the lowest sales month, acting as an annual off-peak trough.
+- 📱 The **Phones** sub-category shows top sales momentum, generating **₹1,706,874** in total revenue.
 
 ---
 
@@ -114,28 +114,28 @@ Based on the cleaned dataset and Excel analysis:
 
 Based on the analysis:
 
-- 📦 **Dynamic Supply Chain Stocking:** Scale up procurement and inventory intake during July and August to stay ahead of the massive Q3–Q4 peak season, preventing stockouts during November and December[cite: 5].
-- 🏷️ **Targeted Off-Peak Promotional Campaigns:** Introduce promotional bundles, volume rebates, or corporate loyalty incentives during January and February to stabilize cash flows during lower demand months[cite: 5].
-- 💰 **Prioritize High-Margin Technology Lines:** Expand marketing initiatives around high-value smart phones and advanced copiers to maximize operating margin percentage[cite: 5].
+- 📦 **Dynamic Supply Chain Stocking:** Scale up procurement and inventory intake during July and August to stay ahead of the massive Q3–Q4 peak season, preventing stockouts during November and December.
+- 🏷️ **Targeted Off-Peak Promotional Campaigns:** Introduce promotional bundles, volume rebates, or corporate loyalty incentives during January and February to stabilize cash flows during lower demand months.
+- 💰 **Prioritize High-Margin Technology Lines:** Expand marketing initiatives around high-value smart phones and advanced copiers to maximize operating margin percentage.
 
 ---
 
 # 🎯 Project Evaluation & Deliverables
 
 ### 📦 Project Deliverables
-- ✅ Dataset (self-collected or generated)[cite: 1]
-- ✅ Cleaned Data File[cite: 1]
-- ✅ Analysis File (Excel)[cite: 1]
-- ✅ Dashboard (Excel)[cite: 1]
-- ✅ Final Insights & Recommendations Summary[cite: 1]
+- ✅ Dataset (self-collected or generated)
+- ✅ Cleaned Data File
+- ✅ Analysis File (Excel)
+- ✅ Dashboard (Excel)
+- ✅ Final Insights & Recommendations Summary
 
 ### ⚖️ Evaluation Criteria
 The project was evaluated based on the following breakdown:
-- 📥 **Data Collection & Relevance:** 10%[cite: 1]
-- 🧹 **Data Cleaning:** 20%[cite: 1]
-- 🔍 **Data Analysis:** 25%[cite: 1]
-- 📊 **Dashboard Development:** 25%[cite: 1]
-- 💡 **Insights & Recommendations:** 20%[cite: 1]
+- 📥 **Data Collection & Relevance:** 10%
+- 🧹 **Data Cleaning:** 20%
+- 🔍 **Data Analysis:** 25%
+- 📊 **Dashboard Development:** 25%
+- 💡 **Insights & Recommendations:** 20%
 
 ---
 
@@ -150,11 +150,11 @@ The project was evaluated based on the following breakdown:
 # 🚀 Skills Demonstrated & Gained
 
 Completing this project developed strong competencies in:
-- 🧹 **Data Cleaning Skills:** Preparing raw data for accurate analysis[cite: 1].
-- 🔍 **Data Analysis Skills:** Utilizing Excel formulas, Pivot Tables, and logic[cite: 1].
-- 📅 **Time Series & Trend Analysis:** Uncovering cyclical patterns and revenue trajectories[cite: 1].
-- 🏢 **Business Understanding:** Bridging the gap between raw numbers and retail inventory strategy[cite: 1].
-- 🎨 **Dashboard Creation Skills:** Building interactive, visually appealing executive tools[cite: 1].
+- 🧹 **Data Cleaning Skills:** Preparing raw data for accurate analysis.
+- 🔍 **Data Analysis Skills:** Utilizing Excel formulas, Pivot Tables, and logic.
+- 📅 **Time Series & Trend Analysis:** Uncovering cyclical patterns and revenue trajectories.
+- 🏢 **Business Understanding:** Bridging the gap between raw numbers and retail inventory strategy.
+- 🎨 **Dashboard Creation Skills:** Building interactive, visually appealing executive tools.
 
 ---
 
@@ -166,5 +166,26 @@ Sales-Forecasting-Demand-Prediction
 ├── Cleaned_Dataset.xlsx
 ├── Dashboard.png
 ├── Analysis_Dashboard.xlsx
+
+🔮 Future Enhancements
+
+- Add automated data refresh using Power Query
+- Build an advanced Power BI dashboard
+- Connect the dashboard with a SQL database
+- Add demand and inventory forecasting
+
+---
+
+# 👨‍💻 Author
+
+**Manish Kashyap**
+
+🎓 B.Tech CSE | AI, ML & Deep Learning  
+📊 Aspiring Data Analyst
+
+---
+
+⭐ If you found this project useful, feel free to star the repository.
+
 ├── Insights_and_Recommendations.docx
 └── README.md
