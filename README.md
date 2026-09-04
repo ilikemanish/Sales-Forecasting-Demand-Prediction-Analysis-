@@ -160,7 +160,7 @@ Completing this project developed strong competencies in:
 
 # 📂 Repository Structure
 
-```text
+
 Sales-Forecasting-Demand-Prediction
 │
 ├── Cleaned_Dataset.xlsx
