@@ -143,7 +143,7 @@ The project was evaluated based on the following breakdown:
 
 > Add your Excel dashboard screenshot below.
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](DASHBOARD.png)
 
 ---
 
