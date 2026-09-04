@@ -156,17 +156,6 @@ Completing this project developed strong competencies in:
 - 🏢 **Business Understanding:** Bridging the gap between raw numbers and retail inventory strategy.
 - 🎨 **Dashboard Creation Skills:** Building interactive, visually appealing executive tools.
 
----
-
-# 📂 Repository Structure
-
-
-Sales-Forecasting-Demand-Prediction
-│
-├── Cleaned_Dataset.xlsx
-├── Dashboard.png
-├── Analysis_Dashboard.xlsx
-
 🔮 Future Enhancements
 
 - Add automated data refresh using Power Query
